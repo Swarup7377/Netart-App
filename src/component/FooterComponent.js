@@ -14,7 +14,7 @@ export default function FooterComponent(){
             </div>
             <div className='d-flex'>
                 <div>
-                    <a href="https://www.facebook.com/cripumps" target="_blank">
+                    <a href="https://www.facebook.com/cripumps" target="_blank" rel="noreferrer">
                         <CgFacebook  style={{ background: '#ffffff', borderRadius: '50%', paddingTop: '6px' }} color='#dc3545' size={31}/>
                     </a>
                 </div>
@@ -23,7 +23,7 @@ export default function FooterComponent(){
             </div>
             <div className='d-flex'>
                 <div>
-                    <a href="https://www.crigroups.com" target="_blank">
+                    <a href="https://www.crigroups.com" target="_blank" rel="noreferrer">
                         <IoIosGlobe  style={{ background: '#ffffff', borderRadius: '50%'}} color='#dc3545' size={31}/>
                     </a>
                 </div>
